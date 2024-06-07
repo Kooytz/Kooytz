@@ -26,8 +26,7 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kooytz&theme=transparent&hide=batchfile,html)](https://github.com/anuraghazra/github-readme-stats) [![card](https://github-readme-stats.vercel.app/api?username=Kooytz&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Koytz&theme=transparent&range=all_time
-)](https://github.com/anuraghazra/github-readme-stats)
+[![Koytz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Koytz&theme=transparent&range=all_time&v=2)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
