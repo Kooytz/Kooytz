@@ -13,7 +13,7 @@
 <div align="center">
     <b>Sobre mim:</b><br><br>
 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Kooytz&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) [![card](https://github-readme-stats.vercel.app/api?username=Kooytz&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Kooytz&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)[![card]([https://github-readme-stats.vercel.app/api?username=Kooytz&theme=dark&show_icons=true](https://github-readme-stats.vercel.app/api?username=Kooytz&theme=dark&show_icons=true))](https://github.com/anuraghazra/github-readme-stats)
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png" alt="Lua"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" alt="Csharp"/></code>
