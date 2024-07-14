@@ -42,7 +42,7 @@ Na visão geral abaixo você encontrará minhas experiências de trabalhos mais 
 **Fullstack developer** \
 [**FiveM**](https://fivem.net/) • Full-time \
 Linguagens & Tecnologias: `.lua`, `C#`, `JavaScript`, `html`, `css`, `MySQL` \
-Projetos em destaque: [BattleZone](), [BlackHole](), [NextGG](), [Hellzone](), [Capital RJ]()
+Projetos em destaque: [FiveMarket](https://fivemarket.com.br/), [BattleZone](), [BlackHole](), [NextGG](), [Hellzone](), [Capital RJ]()
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="gho$tware" src="https://cdn.discordapp.com/attachments/642239839525273602/1248055037670981672/beautiful-ghost-computer-panting-art_410516-19109.png?ex=666396d4&is=66624554&hm=8b225574b611864432d3f5c888054796493f46096cf4cd91bb5f210dcbe03366&"/>](https://discord.gg/rzfTSQ29Dn)
