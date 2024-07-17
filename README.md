@@ -1,4 +1,3 @@
-# PT
 ![](https://komarev.com/ghpvc/?username=Kooytz&color=006bed)
 <div align="center">
   <b>Olá! Seja bem-vindo ao meu perfil. Siga-me nas redes sociais:</b><br>
@@ -49,7 +48,7 @@ Projetos em destaque: [FiveMarket](https://fivemarket.com.br/), [BattleZone](), 
 
 **Software Engineer** \
 [**gho$tware**](https://discord.gg/rzfTSQ29Dn) • My crew \
-Linguagens & Tecnologias: `C#`, `Node.js`, `JavaScript` \
+Linguagens & Tecnologias: `C#`, `C++`, `Node.js`, `JavaScript` \
 Projetos em destaque: [RiotID changer v1](https://github.com/Kooytz/Koytz-RiotID-changer)
 <br/>
 
@@ -81,13 +80,3 @@ Projetos em destaque: [RiotID changer v1](https://github.com/Kooytz/Koytz-RiotID
     />
   </a>
 </p>
-
-# EN
-<div align="center">
-  <b>Hey! Welcome to my profile. Follow me on social media:</b><br>
-  <a href="https://x.com/t0xic_ego">X</a> |
-  <a href="https://www.instagram.com/koytz/">Instagram</a> |
-  <a href="https://www.youtube.com/@Koytz">YouTube</a>
-</div>
-
-I will update the rest soon...
